@@ -1,4 +1,4 @@
-./node-modules
-./package-lock.json
-./package.json
-./Dockerfile
+/node_modules
+/package-lock.json
+/package.json
+/Dockerfile
