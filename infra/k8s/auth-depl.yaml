@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: auth
-          image: muturi/auth
+          image: us.gcr.io/ticketing-dev-282321/auth
           env:
             - name: JWT_KEY
               valueFrom:
